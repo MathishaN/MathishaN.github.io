@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Second Post“
+title:  Second Post
 date:   2020-05-09 08:54:37 +1000
 categories: testing
 ---
